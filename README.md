@@ -1,7 +1,7 @@
 
-A dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. 
+I'm a dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. 
 
-🔭 I’m currently enhancing the efficiency of my ETL workflows, particularly in data extraction and processing. In the [Data Pipeline Workflow](https://github.com/Hannah-Ajibola/Web-Scrape-Workflow-python.git), I successfully automated the collection of stock market prices using Python with scheduled API calls, seamlessly processing the data into an SQL server.
+🔭 I’m currently enhancing the efficiency of my ETL workflows, particularly in data extraction and processing. In the [Data Pipeline Workflow](https://github.com/Hannah-Ajibola/Stock-Market-Data-Pipeline.git), I successfully automated the collection of stock market prices using Python with scheduled API calls, seamlessly processing the data into an SQL server.
 
 ## Professional Competencies and Expertise 
 
