@@ -3,7 +3,7 @@ I'm a dedicated data scientist and enthusiastic learner, committed to uncovering
 
 🔭 I’m currently enhancing the efficiency of my ETL workflows, particularly in data extraction and processing. In the [Data Pipeline Workflow](https://github.com/Hannah-Ajibola/Stock-Market-Data-Pipeline.git), I successfully automated the collection of stock market prices using Python with scheduled API calls, seamlessly processing the data into an SQL server.
 
-## Professional Competencies and Expertise 
+### Professional Competencies and Expertise 
 
 | Area                                      | Description                                                                                      |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -14,7 +14,7 @@ I'm a dedicated data scientist and enthusiastic learner, committed to uncovering
 | Communication                                  | Competent in effective communication of data-driven insights and findings to both technical and non-technical audiences in professional capacities.         |
 
 
-## Tools
+### Tools
 
 
 
