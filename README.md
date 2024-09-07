@@ -1,8 +1,8 @@
-## Hi there 🌱
+## Welcome 🌱
 
 A dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. 
 
-🔭 I’m currently working on practical ways to make my current ETL workflows much more efficient, specifically, data extraction and processing. In the Data_Piepline repsotiry, I've sucesssflyuuy used python to automatcally collect stock marjet proces with scheduled API calls and processed it into an SQL server.
+🔭 I’m currently enhancing the efficiency of my ETL workflows, particularly in data extraction and processing. In the Data_Pipeline repository, I successfully automated the collection of stock market prices using Python with scheduled API calls, seamlessly processing the data into an SQL server.
 
 ## Professional Competencies and Expertise 
 
@@ -13,10 +13,6 @@ A dedicated data scientist and enthusiastic learner, committed to uncovering mea
 | Predictive Models                         | Passionate about building predictive models, implementing machine learning algorithms, and transforming data into actionable intelligence. Focuses on creating models that forecast future trends and behaviors based on historical data.   |
 | Database Management                        | Strong experience in designing and managing databases, performing complex SQL queries, and ensuring data integrity and accuracy. Skilled in database design, optimization, and maintaining data quality across various systems.   |
 | Communication                                  | Competent in effective communication of data-driven insights and findings to both technical and non-technical audiences in professional capacities.         |
-|
-
-
-
 
 
 <!--
