@@ -1,4 +1,3 @@
-## Welcome 🌱
 
 A dedicated data scientist and enthusiastic learner, committed to uncovering meaningful insights from complex datasets. With a strong background in data analysis, machine learning, and data visualization, specializing in transforming intricate data into actionable insights and creating impactful solutions. 
 
@@ -13,6 +12,10 @@ A dedicated data scientist and enthusiastic learner, committed to uncovering mea
 | Predictive Models                         | Passionate about building predictive models, implementing machine learning algorithms, and transforming data into actionable intelligence. Focuses on creating models that forecast future trends and behaviors based on historical data.   |
 | Database Management                        | Strong experience in designing and managing databases, performing complex SQL queries, and ensuring data integrity and accuracy. Skilled in database design, optimization, and maintaining data quality across various systems.   |
 | Communication                                  | Competent in effective communication of data-driven insights and findings to both technical and non-technical audiences in professional capacities.         |
+
+
+## Tools
+
 
 
 <!--
