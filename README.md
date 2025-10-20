@@ -1,5 +1,6 @@
 
-🔭 Currently enhancing the efficiency of my ETL workflows, particularly in data extraction and processing. In the [Data Pipeline Workflow](https://github.com/Hannah-Ajibola/Stock-Market-Data-Pipeline.git), I successfully automated the collection of stock market prices using Python with scheduled API calls, seamlessly processing the data into an SQL server.
+🔭 Modeling and Simulation engineer. - Combines Mathematics and physics. 
+
 
 ### Professional Competencies and Expertise 
 
