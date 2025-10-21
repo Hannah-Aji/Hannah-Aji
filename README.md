@@ -1,5 +1,5 @@
 
-🔭 Modeling and Simulation engineer. - Combines Mathematics and physics. 
+🔭 Modeling and Simulation engineer.
 
 
 ### Professional Competencies and Expertise 
