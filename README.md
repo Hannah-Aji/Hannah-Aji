@@ -1,5 +1,5 @@
 
-🔭 Modeling and Simulation engineer.
+🔭 Mathematician
 
 
 ### Professional Competencies and Expertise 
